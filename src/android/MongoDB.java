@@ -1,4 +1,4 @@
-package cordova-plugin-MongoDB;
+package com.servbus.MongoDB;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
