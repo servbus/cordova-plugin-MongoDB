@@ -1,25 +1,28 @@
 {
-  "name": "cordova-plugin-mongodb",
-  "version": "0.0.1",
-  "cordova": {
-    "id": "cordova-plugin-MongoDB",
-    "platforms": [
-      "android"
-    ]
-  },
-  "keywords": [
-    "ecosystem:cordova",
-    "cordova-android"
-  ],
-  "author": "cnryb",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/servbus/cordova-plugin-MongoDB.git"
-  },
-  "bugs": {
-    "url": "https://github.com/servbus/cordova-plugin-MongoDB/issues"
-  },
-  "homepage": "https://github.com/servbus/cordova-plugin-MongoDB#readme",
-  "description": ""
+	"name": "cordova-plugin-mongodb",
+	"version": "0.0.2",
+	"cordova": {
+		"id": "cordova-plugin-MongoDB",
+		"platforms": [
+			"android",
+			"ios"
+		]
+	},
+	"keywords": [
+		"ecosystem:cordova",
+		"cordova-android",
+		"cordova-ios",
+		"mongodb"
+	],
+	"author": "cnryb",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/servbus/cordova-plugin-MongoDB.git"
+	},
+	"bugs": {
+		"url": "https://github.com/servbus/cordova-plugin-MongoDB/issues"
+	},
+	"homepage": "https://github.com/servbus/cordova-plugin-MongoDB#readme",
+	"description": "MongoDB Mobile"
 }
